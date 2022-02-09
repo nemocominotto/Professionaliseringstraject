@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio fugit consequatur praesentium neque aspernatur quo ducimus tempora, perspiciatis illum assumenda molestiae sunt cupiditate alias sapiente suscipit similique. Eos quas veniam, quae nostrum perferendis numquam delectus perspiciatis praesentium laborum et repellendus, eum dolorem sapiente quidem maiores ipsa, corporis animi impedit nesciunt at harum ratione saepe voluptatum? Corrupti ipsam a repudiandae ipsum optio. Tempora ea vitae hic, consectetur repellendus labore facilis repellat, eaque molestiae obcaecati pariatur aliquam deserunt, ipsum dolorem quaerat placeat nam. Consequuntur nesciunt consequatur sequi eveniet reiciendis, mollitia nulla. Explicabo, dolorem. Optio magni nihil quasi autem quos fugiat neque excepturi.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 css tips",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio fugit consequatur praesentium neque aspernatur quo ducimus tempora, perspiciatis illum assumenda molestiae sunt cupiditate alias sapiente suscipit similique. Eos quas veniam, quae nostrum perferendis numquam delectus perspiciatis praesentium laborum et repellendus, eum dolorem sapiente quidem maiores ipsa, corporis animi impedit nesciunt at harum ratione saepe voluptatum? Corrupti ipsam a repudiandae ipsum optio. Tempora ea vitae hic, consectetur repellendus labore facilis repellat, eaque molestiae obcaecati pariatur aliquam deserunt, ipsum dolorem quaerat placeat nam. Consequuntur nesciunt consequatur sequi eveniet reiciendis, mollitia nulla. Explicabo, dolorem. Optio magni nihil quasi autem quos fugiat neque excepturi.",
+      "tags": [
+        "css",
+        "coding",
+        "coding"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "test"
+      ],
+      "id": 3
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "test"
+      ],
+      "id": 4
+    }
+  ]
+}
